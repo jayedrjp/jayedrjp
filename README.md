@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Abdur Rahman Jayed 👋
 
-<!--
-**jayedrjp/jayedrjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer | CSE Student  
+🚀 Learning by building real projects
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
+- Computer Science & Engineering student
+- Interested in web development
+- Learning step by step through practice
+- Focused on clean and simple code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+- ![HTML](https://img.shields.io/badge/HTML-555?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/Git-555?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-555?style=flat&logo=github)
+
+
+### 🌱 Currently Learning
+- Responsive web design
+- JavaScript fundamentals
+
+### 🎯 Goal
+To become a professional web developer and gain real-world experience through projects and internships.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedrjp&show_icons=true&hide_title=true)
+
