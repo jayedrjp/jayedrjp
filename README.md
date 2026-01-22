@@ -16,9 +16,7 @@
 - Git & GitHub
 
 ### 📈 GitHub Stats:
-## Abdur Rahman Jayed's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedrjp&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedrjp&show_icons=true&theme=tokyonight)
 
 ### 🌱 Currently Learning
 - Responsive web design
