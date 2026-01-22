@@ -22,6 +22,10 @@
 - Responsive web design
 - JavaScript fundamentals
 
+- ### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/jayedrjp)/)
+
+
 ### 🎯 Goal
 To become a professional web developer and gain real-world experience through projects and internships.
 
