@@ -15,11 +15,9 @@
 - JavaScript
 - Git & GitHub
 
-- ![HTML](https://img.shields.io/badge/HTML-555?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/Git-555?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-555?style=flat&logo=github)
+### 📈 GitHub Stats:
+## Abdur Rahman Jayed's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedrjp&show_icons=true)
 
 
 ### 🌱 Currently Learning
@@ -29,5 +27,5 @@
 ### 🎯 Goal
 To become a professional web developer and gain real-world experience through projects and internships.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedrjp&show_icons=true&hide_title=true)
+
 
