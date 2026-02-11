@@ -16,7 +16,7 @@
 - Git & GitHub
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedrjp&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayedrjp&show_icons=true&theme=tokyonight)
 
 ### 🌱 Currently Learning
 - Responsive web design
