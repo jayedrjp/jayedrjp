@@ -104,21 +104,6 @@ seeking : Internships · Collaborations · Open Source
 
 ---
 
-## 🎯 2025 Roadmap
-
-<div align="center">
-
-| Quarter | Goal | Status |
-|:---:|:---|:---:|
-| Q1–Q2 | Master HTML + CSS layouts & Flexbox/Grid | ✅ Done |
-| Q2–Q3 | JavaScript fundamentals + DOM manipulation | 🔄 In Progress |
-| Q3 | Build 3 portfolio projects | 🔜 Upcoming |
-| Q3–Q4 | Learn React.js | 🔜 Upcoming |
-| Q4 | Land first internship / freelance gig | 🎯 Goal |
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
