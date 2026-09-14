@@ -139,15 +139,19 @@ Git & GitHub          ████████░░ 80%
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayedrjp/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayedrjp)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FEDE7A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/jayedrjp)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayedrjp/)
 
-<br/>
+<br/><br/>
+
+<a href="https://buymeacoffee.com/jayedrjp">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180">
+</a>
+
+<br/><br/>
 
 **Open to:** `Internships` · `Collaborations` · `Code Reviews` · `Mentorship`
 
 </div>
-
 ---
 
 <div align="center">
