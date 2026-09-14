@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0d1117&height=220&section=header&text=Abdur%20Rahman%20Jayed&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20in%20the%20Making%20%E2%80%94%20Building%20the%20Web%20from%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=62&descSize=16&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0d1117&height=220&section=header&text=Abdur%20Rahman%20Jayed&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" />
 
 </div>
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=const+goal+%3D+%22professional+web+developer%22%3B;while+(!goal.achieved)+%7B+keep.building()%3B+%7D;%2F%2F+currently+at%3A+responsive+design+%2B+JS;%2F%2F+next+up%3A+React.js+%F0%9F%9A%80;open+for+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing animation" />
-</a>
+<a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=const+goal+%3D+%22professional+web+developer%22%3B;while+(!goal.achieved)+%7B+keep.building()%3B+%7D;%2F%2F+currently+at%3A+responsive+design+%2B+JS;%2F%2F+next+up%3A+React.js+%F0%9F%9A%80;open+for+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing animation" /> </a>
 
 </div>
 
