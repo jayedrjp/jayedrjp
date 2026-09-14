@@ -152,7 +152,7 @@ Git & GitHub          ████████░░ 80%
 **Open to:** `Internships` · `Collaborations` · `Code Reviews` · `Mentorship`
 
 </div>
----
+
 
 <div align="center">
 
